@@ -1,0 +1,168 @@
+body {
+  height: 20000px;
+}
+body .granma {
+  background-attachment: fixed;
+  height: 20000px;
+  background-size: cover;
+}
+body .granma .dautien .dautien1 i {
+  color: red;
+  font-size: 50px;
+}
+body .granma .parent .children {
+  text-align: center;
+  padding-top: 50px;
+}
+body .granma .parent .children i b {
+  color: red;
+  font-size: 110px;
+}
+body .granma .parent2 {
+  margin-top: 75px;
+}
+body .granma .parent2 .children2 .children21 {
+  display: flex;
+}
+body .granma .parent2 .children2 .children21 .children211 {
+  display: grid;
+  margin-left: 150px;
+}
+body .granma .parent2 .children2 .children21 .children211 a {
+  color: cornsilk;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+body .granma .parent2 .children2 .children21 .children211 img {
+  width: 350px;
+}
+body .granma .parent2 .children2 .children21 .children212 {
+  padding-left: 50px;
+  display: grid;
+}
+body .granma .parent2 .children2 .children21 .children212 a {
+  color: cornsilk;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+body .granma .parent2 .children2 .children21 .children212 img {
+  width: 350px;
+}
+body .granma .parent2 .children2 .children21 .children213 {
+  display: grid;
+  margin-left: 50px;
+}
+body .granma .parent2 .children2 .children21 .children213 a {
+  color: cornsilk;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+body .granma .parent2 .children2 .children21 .children213 img {
+  width: 350px;
+}
+body .granma .nutan {
+  text-align: center;
+  padding-top: 50px;
+}
+body .granma .nutan button {
+  background-color: blueviolet;
+  color: darkturquoise;
+  padding: 25px 50px;
+  font-size: 30px;
+}
+body .granma .anhbaolon {
+  display: flex;
+}
+body .granma .anhbaolon .fileanhlon {
+  margin-top: 100px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon1 {
+  display: flex;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon1 .anh1 img {
+  margin-left: 20px;
+  width: 150px;
+  height: 150px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon1 .anh2 img {
+  margin-left: 15px;
+  width: 170px;
+  height: 150px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon1 .anh3 img {
+  margin-left: 15px;
+  width: 200px;
+  height: 150px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon1 .anh4 img {
+  margin-left: 15px;
+  width: 300px;
+  height: 150px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon2 {
+  display: flex;
+  margin-top: 20px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon2 .anh1 img {
+  margin-left: 20px;
+  width: 150px;
+  height: 150px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon2 .anh2 img {
+  margin-left: 15px;
+  width: 170px;
+  height: 150px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon2 .anh3 img {
+  margin-left: 15px;
+  width: 200px;
+  height: 150px;
+}
+body .granma .anhbaolon .fileanhlon .fileanhlon2 .anh4 img {
+  margin-left: 15px;
+  width: 300px;
+  height: 150px;
+}
+body .granma .anhbaolon .fileanhlonn .anhto img {
+  margin-top: 100px;
+  margin-left: 15px;
+  width: 520px;
+  height: 325px;
+}
+body .granma .fileanhlonnn {
+  display: flex;
+  margin-top: 20px;
+}
+body .granma .fileanhlonnn .anh1 img {
+  margin-left: 15px;
+  width: 200px;
+  height: 150px;
+}
+body .granma .fileanhlonnn .anh2 img {
+  margin-left: 15px;
+  width: 250px;
+  height: 150px;
+}
+body .granma .fileanhlonnn .anh3 img {
+  margin-left: 15px;
+  width: 270px;
+  height: 150px;
+}
+body .granma .fileanhlonnn .anh4 img {
+  margin-left: 15px;
+  width: 150px;
+  height: 150px;
+}
+body .granma .fileanhlonnn .anh5 img {
+  margin-left: 15px;
+  width: 250px;
+  height: 150px;
+}
+body .granma .fileanhlonnn .anh6 img {
+  margin-left: 15px;
+  width: 210px;
+  height: 150px;
+}/*# sourceMappingURL=index.css.map */
