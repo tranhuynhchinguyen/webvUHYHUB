@@ -1,0 +1,251 @@
+body {
+    height: 20000px;
+
+
+    .granma {
+        background-attachment: fixed;
+        height: 20000px;
+        background-size: cover;
+
+        .dautien {
+            .dautien1 {
+                i {
+                    color: red;
+                    font-size: 50px;
+                }
+            }
+        }
+
+        .parent {
+            .children {
+                text-align: center;
+                padding-top: 50px;
+
+                i {
+                    b {
+                        color: red;
+                        font-size: 110px;
+                    }
+                }
+            }
+        }
+
+        .parent2 {
+            margin-top: 75px;
+
+            .children2 {
+                .children21 {
+                    display: flex;
+
+                    .children211 {
+                        display: grid;
+                        margin-left: 150px;
+
+                        a {
+                            color: cornsilk;
+                            font-size: 20px;
+                            margin-top: 10px;
+                            margin-left: 25px;
+                        }
+
+                        img {
+                            width: 350px;
+                        }
+                    }
+
+                    .children212 {
+                        padding-left: 50px;
+                        display: grid;
+
+                        a {
+                            color: cornsilk;
+                            font-size: 20px;
+                            margin-top: 10px;
+                            margin-left: 30px;
+                        }
+
+                        img {
+                            width: 350px;
+                        }
+                    }
+
+                    .children213 {
+                        display: grid;
+                        margin-left: 50px;
+
+                        a {
+                            color: cornsilk;
+                            font-size: 20px;
+                            margin-top: 10px;
+                            margin-left: 30px;
+                        }
+
+                        img {
+                            width: 350px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .nutan {
+            text-align: center;
+            padding-top: 50px;
+
+            button {
+                background-color: blueviolet;
+                color: darkturquoise;
+                padding: 25px 50px;
+                font-size: 30px;
+            }
+        }
+
+        .anhbaolon {
+            display: flex;
+
+            .fileanhlon {
+                margin-top: 100px;
+
+                .fileanhlon1 {
+                    display: flex;
+
+                    .anh1 {
+
+                        img {
+                            margin-left: 20px;
+                            width: 150px;
+                            height: 150px;
+                        }
+                    }
+
+                    .anh2 {
+                        img {
+                            margin-left: 15px;
+                            width: 170px;
+                            height: 150px;
+                        }
+                    }
+
+                    .anh3 {
+                        img {
+                            margin-left: 15px;
+                            width: 200px;
+                            height: 150px;
+                        }
+                    }
+
+                    .anh4 {
+                        img {
+                            margin-left: 15px;
+                            width: 300px;
+                            height: 150px;
+                        }
+                    }
+
+
+                }
+
+                .fileanhlon2 {
+                    display: flex;
+                    margin-top: 20px;
+
+                    .anh1 {
+
+                        img {
+                            margin-left: 20px;
+                            width: 150px;
+                            height: 150px;
+                        }
+                    }
+
+                    .anh2 {
+                        img {
+                            margin-left: 15px;
+                            width: 170px;
+                            height: 150px;
+                        }
+                    }
+
+                    .anh3 {
+                        img {
+                            margin-left: 15px;
+                            width: 200px;
+                            height: 150px;
+                        }
+                    }
+
+                    .anh4 {
+                        img {
+                            margin-left: 15px;
+                            width: 300px;
+                            height: 150px;
+                        }
+                    }
+
+
+                }
+
+            }
+
+            .fileanhlonn {
+                .anhto {
+                    img {
+                        margin-top: 100px;
+                        margin-left: 15px;
+                        width: 520px;
+                        height: 325px;
+                    }
+                }
+            }
+
+        }
+
+        .fileanhlonnn {
+            display: flex;
+            margin-top: 20px;
+            .anh1 {
+                img {
+                    margin-left: 15px;
+                    width: 200px;
+                    height: 150px;
+                }
+            }
+            .anh2 {
+                img {
+                    margin-left: 15px;
+                    width: 250px;
+                    height: 150px;
+                }
+            }
+            .anh3 {
+                img {
+                    margin-left: 15px;
+                    width: 270px;
+                    height: 150px;
+                }
+            }
+            .anh4 {
+                img {
+                    margin-left: 15px;
+                    width: 150px;
+                    height: 150px;
+                }
+            }
+            .anh5 {
+                img {
+                    margin-left: 15px;
+                    width: 250px;
+                    height: 150px;
+                }
+            }
+            .anh6{
+                img {
+                    margin-left: 15px;
+                    width: 210px;
+                    height: 150px;
+
+                }
+            }
+        }
+    }
+}
